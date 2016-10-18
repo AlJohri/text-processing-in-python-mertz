@@ -1,0 +1,5 @@
+# This site should be indexed by robots
+User-agent: *
+Disallow: /secret/
+Disallow: /PSF-Board/
+
